@@ -1,6 +1,6 @@
 ---
 title: "STAT3622-Final Project-Stroke Prediction"
-author: "Gong Kening(3035811989) and Qin Zhuoya(3035821922)"
+author: "Gong Kening Nicole"
 date: "2023-04-18"
 output:
   pdf_document: default
